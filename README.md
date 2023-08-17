@@ -6,7 +6,7 @@ Essa é a resolução do projeto [Huddle landing page with single introductory s
 
 ## Desafio
 
-- Os usuários devem ver o layout completo em uma página que possui as dimensões 1440pxx800px e a versão mobile que possui 375px.
+- Os usuários devem ver o layout completo em uma página que possui as dimensões 1440px800px e a versão mobile que possui 375px.
 - Os usuários devem ver todos elementos interativos da página.
 
 ## Screenshots
